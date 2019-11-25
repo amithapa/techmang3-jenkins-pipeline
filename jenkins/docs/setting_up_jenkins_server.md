@@ -25,4 +25,4 @@
     - Click on **Start Using Jenkins**  
       ![directory strucure](assets/screenshot_jenkins_5.png  "start_using_jenkins")
 ---
-[Back](/scripts/README.md) | [Home](/scripts/README.md)
+[Back](/README.md) | [Home](/README.md)
