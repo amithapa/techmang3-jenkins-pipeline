@@ -53,4 +53,4 @@ Password:
 
   
 ---
-[Back](/scripts/README.md) | [Home](/scripts/README.md)
+[Back](/README.md) | [Home](/README.md)
