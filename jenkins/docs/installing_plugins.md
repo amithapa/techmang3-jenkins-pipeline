@@ -13,4 +13,4 @@
   You might have to wait untill the installation is completed.
     
 ---
-[Back](/scripts/README.md) | [Home](/scripts/README.md)
+[Back](/README.md) | [Home](/README.md)
