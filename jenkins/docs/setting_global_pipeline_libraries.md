@@ -12,4 +12,4 @@ This libraries can be used globaly by all the jenkins projects.
   Save the configuration.
   
 ---
-[Back](/scripts/README.md) | [Home](/scripts/README.md)
+[Back](/README.md) | [Home](/README.md)
